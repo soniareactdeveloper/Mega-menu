@@ -1,0 +1,9 @@
+.laptopRam {
+  display: inline-block;
+}
+.LaptopRamDrop {
+  display: none;
+}
+.laptopRam:hover .LaptopRamDrop{
+  display: block;
+}
